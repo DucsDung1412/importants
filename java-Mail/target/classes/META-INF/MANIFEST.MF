@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Built-By: Admin
+Build-Jdk: 18.0.2.1
+Class-Path: activation-1.1.1.jar mail-1.4.7.jar
+Main-Class: hhhh.test
+Created-By: Maven Integration for Eclipse
+
