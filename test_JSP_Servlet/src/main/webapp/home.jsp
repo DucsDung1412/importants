@@ -9,8 +9,10 @@
 	<body>
 		<%
 			String test = "Hello";
+			String fil = ""+session.getAttribute("filter");
 		%>
 		<h1>DungVipPro</h1>
+		<h1><%= fil %></h1>
 		<hr>
 		<a href="change-layout/home"> Home</a>
 		<a href="change-layout/about">About</a>
